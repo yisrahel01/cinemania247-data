@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculasunriseelultimoamanecer",
+    "title": "Sunrise: El último amanecer",
+    "titleoriginal": "The Last Sunrise",
+    "synopsis": "Basada en la exitosa novela, Sunrise: El último amanecer narra la historia de Ry, una universitaria con una enfermedad crónica que viaja a Mallorca junto a su madre. Cuando se enamora de Julián, descubre una nueva forma de vivir, pero, antes de que termine el verano, el deterioro de su salud y los secretos familiares ponen todo en riesgo.",
+    "year": "2026",
+    "genre": "Romance",
+    "language": "Español Latino",
+    "rating": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/18HnXofpKuoD8oMdRj6GPvmdEJN.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+    "videoUrl": "https://archive.org/details/sunrise-el-ultimo-amanecer-2026-digitalia",
+    "downloadUrl": "https://archive.org/details/sunrise-el-ultimo-amanecer-2026-digitalia",
+    "Peso": "4.0",
+    "type": "pelicula",
+    "fechaAgregado": "2026-09-28"
+  },
+  {
     "synopsis": "Después de que un misterioso fenómeno cósmico modifique Oak Street y su entorno suburbano, la familia Platt descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
     "language": "Español Latino",
     "genre": "Acción",
