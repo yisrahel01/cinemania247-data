@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculatitanic",
+    "title": "Titanic",
+    "titleoriginal": "Titanic",
+    "synopsis": "El romance florece entre Jack Dawson y Rose DeWitt Bukater en el esplendoroso transatlántico RMS Titanic. Su amor, como el barco, desafía las olas del destino. Pero cuando el Titanic choca con el iceberg, su historia se convierte en una épica de sacrificio y supervivencia, en la que el amor perdurará más allá de las profundidades del mar.",
+    "year": "1997",
+    "genre": "Drama",
+    "language": "Español Latino",
+    "rating": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/2tltWMvvTqscFtdujTXDsRFTqKQ.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+    "videoUrl": "https://drive.com",
+    "downloadUrl": "https://drive.com",
+    "Peso": "1.0",
+    "type": "pelicula",
+    "fechaAgregado": "2026-09-28"
+  },
+  {
     "synopsis": "Después de que un misterioso fenómeno cósmico modifique Oak Street y su entorno suburbano, la familia Platt descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
     "language": "Español Latino",
     "genre": "Acción",
