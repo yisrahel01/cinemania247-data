@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculaeljovenwashington",
+    "title": "El Joven Washington",
+    "titleoriginal": "Young Washington",
+    "synopsis": "Se basa en la juventud de George Washington —Padre Fundador y primer presidente de los Estados Unidos— y se centra en sus experiencias y su mando militar durante la guerra Franco-India, entre 1753 y 1755.",
+    "year": "2026",
+    "genre": "Historia",
+    "language": "Español Latino",
+    "rating": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/cpY0vz53hWon3N7zJ4XTSkxAEUd.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+    "videoUrl": "https://drive.google.com/file/d/1HbLSFtKgvCPab0FTFGYC_AQ0gGSxTZfA/view?usp=sharing",
+    "downloadUrl": "https://drive.usercontent.google.com/download?id=1HbLSFtKgvCPab0FTFGYC_AQ0gGSxTZfA&export=download&authuser=0",
+    "Peso": "1.1",
+    "type": "pelicula",
+    "fechaAgregado": "2026-09-28"
+  },
+  {
     "id": "peliculasoloporunanoche",
     "title": "Solo por una noche",
     "titleoriginal": "One Night Only",
