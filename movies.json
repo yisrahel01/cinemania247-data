@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculakraken",
+    "title": "Kraken",
+    "titleoriginal": "Kraken",
+    "synopsis": "",
+    "year": "2026",
+    "genre": "Terror",
+    "language": "Español Latino",
+    "rating": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/uUCVGVWnBgIf6NV3AqHpJcCBC8T.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+    "videoUrl": "https://archive.org/details/kraken-2025-digitalia",
+    "downloadUrl": "https://archive.org/details/kraken-2025-digitalia",
+    "Peso": "2.9",
+    "type": "pelicula",
+    "fechaAgregado": "2026-09-28"
+  },
+  {
     "id": "peliculaeljovenwashington",
     "title": "El Joven Washington",
     "titleoriginal": "Young Washington",
