@@ -67,7 +67,9 @@
     "downloadUrl": "https://archive.org/details/coyote-vs-acme-2026-digitalia_202609",
     "Peso": "2.0 GB",
     "type": "pelicula",
-    "fechaAgregado": "2026-09-28"
+    "fechaAgregado": "2026-09-28",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-09-30"
   },
   {
     "id": "peliculasunriseelultimoamanecer",
