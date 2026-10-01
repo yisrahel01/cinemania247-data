@@ -377,7 +377,9 @@
     "synopsis": "Tras el Día del Juicio Final, Peter Parker intenta centrarse en la universidad y abandonar a Spider-Man. Cuando una nueva amenaza pone en peligro a sus amigos, debe romper su promesa y volver al traje.",
     "year": "2026",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkMZwhHRkJrUUBMOzInVGE_9r2LCxQlac7hgDKjolcrxfyw7WlLpS4c0AojS8GiNY4FUMocsv_u9wEXv-drM0SovYDaZxjyPZ-h4Jo_F1YWpGrAmA9pJG-XNE7E2wKzicW7aodlqSIpwGczShpbi6U_7Ox3tm5GNBJC27J725RyJ3rjd8lvKfqW6t_R0o2/w640-h360/Spiderman%20un%20nuevo%20d%C3%ADa%20horizontal.webp",
-    "type": "pelicula"
+    "type": "pelicula",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-01"
   },
   {
     "titleoriginal": "Disclosure Day",
