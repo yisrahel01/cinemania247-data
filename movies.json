@@ -360,7 +360,8 @@
     "Peso": "935 MB",
     "fechaAgregado": "2026-09-03",
     "destacado": "estreno",
-    "fechaDestacado": "2026-10-01"
+    "fechaDestacado": "2026-10-01",
+    "heroVideo": "https://tqtuujtmnvguxqiiddra.supabase.co/storage/v1/object/public/Cinemania-videos/Toystory5.mp4"
   },
   {
     "videoUrl": "https://drive.google.com/file/d/1RUhmdV_SgaSgCBF4sW5U0uID_gMLrNN7/view?usp=sharing",
