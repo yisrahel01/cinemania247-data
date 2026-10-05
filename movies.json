@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculaminionsmonstruos",
+    "title": "Minions & Monstruos",
+    "titleoriginal": "Minions & Monsters",
+    "synopsis": "Esta es la historia alocada, ridícula y totalmente verídica de cómo los Minions conquistaron Hollywood, se convirtieron en estrellas de cine, lo perdieron todo, desataron monstruos en el mundo y luego se unieron para intentar salvar al planeta del caos que acababan de crear.",
+    "year": "2026",
+    "genre": "Aventura",
+    "language": "Español Latino",
+    "rating": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/uNtBRRLNsCiCcqccv3CMWPx5Xz.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "videoUrl": "https://archive.org/download/minions-vs-monstruos-2026/Minions%20vs%20Monstruos%20%282026%29.mp4",
+    "downloadUrl": "https://archive.org/download/minions-vs-monstruos-2026/Minions%20vs%20Monstruos%20%282026%29.mp4",
+    "Peso": "1.1",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-05",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-05"
+  },
+  {
     "id": "peliculakraken",
     "title": "Kraken",
     "titleoriginal": "Kraken",
