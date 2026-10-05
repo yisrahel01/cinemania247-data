@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculafrankenstein",
+    "title": "Frankenstein",
+    "titleoriginal": "Frankenstein",
+    "synopsis": "El Dr. Victor Frankenstein, un científico brillante pero egoísta, da vida a una criatura en un monstruoso experimento que finalmente conduce a la ruina tanto del creador como de su trágica creación.",
+    "year": "2025",
+    "genre": "Drama",
+    "language": "Español Latino",
+    "rating": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/hTj8x0ElKldJyAjTYvaqxkQNxxN.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+    "videoUrl": "https://archive.org/download/frankenstein-2025_202610/Frankenstein%20%282025%29.mp4",
+    "downloadUrl": "https://archive.org/download/frankenstein-2025_202610/Frankenstein%20%282025%29.mp4",
+    "Peso": "2.2",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-05",
+    "destacado": "recien",
+    "fechaDestacado": "2026-10-05"
+  },
+  {
     "id": "peliculaminionsmonstruos",
     "title": "Minions & Monstruos",
     "titleoriginal": "Minions & Monsters",
