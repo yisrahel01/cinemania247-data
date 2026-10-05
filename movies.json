@@ -105,7 +105,10 @@
     "downloadUrl": "https://archive.org/details/sunrise-el-ultimo-amanecer-2026-digitalia",
     "Peso": "4.0 GB",
     "type": "pelicula",
-    "fechaAgregado": "2026-09-28"
+    "fechaAgregado": "2026-09-28",
+    "oculta": true,
+    "fechaEstado": "2026-10-05",
+    "motivoEstado": "No carga video"
   },
   {
     "synopsis": "Después de que un misterioso fenómeno cósmico modifique Oak Street y su entorno suburbano, la familia Platt descubre que su propia supervivencia depende de que permanezcan unidos mientras se orientan en un entorno que ya no reconocen.",
