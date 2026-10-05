@@ -244,7 +244,10 @@
     "id": "peliculalaasistentedelamorgue",
     "downloadUrl": "https://archive.org/details/la-asistente-de-la-morgue-2026-digitalia",
     "rating": "3.7",
-    "titleoriginal": "The Mortuary Assistant"
+    "titleoriginal": "The Mortuary Assistant",
+    "oculta": true,
+    "fechaEstado": "2026-10-05",
+    "motivoEstado": "No carga video"
   },
   {
     "rating": "4.2",
