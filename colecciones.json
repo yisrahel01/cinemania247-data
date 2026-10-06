@@ -51,6 +51,22 @@
       "heroActivo": false,
       "creadaEn": "2025-01-01T00:00:00Z",
       "actualizadaEn": "2026-10-06T00:06:03.131Z"
+    },
+    {
+      "id": "pruebaborrar",
+      "emoji": "🎬",
+      "titulo": "PRUEBA BORRAR",
+      "colorFondo": "linear-gradient(135deg, #ff6a00, #8b0000)",
+      "colorTexto": "#ffffff",
+      "activa": false,
+      "orden": 99,
+      "fechaInicio": "",
+      "fechaFin": "",
+      "peliculasIds": [],
+      "heroImagen": "",
+      "heroActivo": false,
+      "creadaEn": "2026-10-06T00:43:40.478Z",
+      "actualizadaEn": "2026-10-06T00:43:40.478Z"
     }
   ]
 }
