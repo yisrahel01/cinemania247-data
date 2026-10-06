@@ -584,7 +584,9 @@
     "type": "pelicula",
     "videoUrl": "https://archive.org/details/boulevard-2026-digitalia_202608",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxxQYrNYLGCPN5AO4sszt0dLaO4jrqbIz-_AImvuv9FPiLwJ-qaYb4hGTEBfsAfqw975e3usZ62WO9VGG29sgvsmz3JH9LUiHLIUOnLa84MYYZYvNSLt_Gng4lrDk-TI58tBTVyWZ2NTWBHtXe71sZ8m-YbEkRpPuS5pWfDsT9NvF_olk9ss67qn93FVN/w640-h360/Boulevard%20horizontal.webp",
-    "downloadUrl": "https://archive.org/details/boulevard-2026-digitalia_202608"
+    "downloadUrl": "https://archive.org/details/boulevard-2026-digitalia_202608",
+    "oculta": true,
+    "fechaEstado": "2026-10-06"
   },
   {
     "Peso": "1.6 GB",
