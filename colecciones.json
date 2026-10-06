@@ -8,7 +8,7 @@
       "subtitulo": "Películas para morir de miedo",
       "colorFondo": "linear-gradient(135deg, #ff6a00, #8b0000)",
       "colorTexto": "#ffffff",
-      "activa": false,
+      "activa": true,
       "orden": 1,
       "fechaInicio": "",
       "fechaFin": "",
@@ -16,7 +16,8 @@
       "heroImagen": "",
       "heroActivo": false,
       "creadaEn": "2025-01-01T00:00:00Z",
-      "actualizadaEn": "2025-01-01T00:00:00Z"
+      "actualizadaEn": "2026-10-06T16:06:52.403Z",
+      "color": "#ff7b1e"
     },
     {
       "id": "navidad",
