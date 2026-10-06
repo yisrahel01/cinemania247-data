@@ -13,13 +13,17 @@
       "fechaInicio": "",
       "fechaFin": "",
       "peliculasIds": [
-        "peliculaspidermanunnuevodia"
+        "peliculalaestaciondelterror",
+        "peliculaterrorenshelbyoaks",
+        "peliculalacalledelterror",
+        "peliculalasexorcistas",
+        "peliculalamonja2"
       ],
       "heroImagen": "",
       "heroActivo": false,
       "creadaEn": "2025-01-01T00:00:00Z",
-      "actualizadaEn": "2026-10-06T17:53:23.604Z",
-      "color": "#a8e600"
+      "actualizadaEn": "2026-10-06T18:18:32.292Z",
+      "color": "#ff7b1e"
     },
     {
       "id": "navidad",
