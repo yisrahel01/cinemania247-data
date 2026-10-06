@@ -23,7 +23,7 @@
     },
     {
       "id": "navidad",
-      "titulo": "ESPECIAL NAVIDAD",
+      "titulo": "🎄 ESPECIAL NAVIDAD",
       "emoji": "🎄",
       "subtitulo": "Para ver en familia estas fiestas",
       "colorFondo": "linear-gradient(135deg, #0a5c2e, #b00020)",
@@ -40,7 +40,7 @@
       "heroImagen": "",
       "heroActivo": false,
       "creadaEn": "2025-01-01T00:00:00Z",
-      "actualizadaEn": "2026-10-06T18:05:18.042Z",
+      "actualizadaEn": "2026-10-06T18:16:46.540Z",
       "color": "#ff7b1e"
     }
   ]
