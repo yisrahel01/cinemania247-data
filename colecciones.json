@@ -19,12 +19,12 @@
         "peliculalasexorcistas",
         "peliculalamonja2"
       ],
-      "heroImagen": "",
-      "heroActivo": false,
+      "heroImagen": "https://tse1.mm.bing.net/th/id/OIP.vg1OAb0hQQS6BbpKx9qvfQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "heroActivo": true,
       "creadaEn": "2025-01-01T00:00:00Z",
-      "actualizadaEn": "2026-10-06T19:08:17.155Z",
+      "actualizadaEn": "2026-10-07T00:49:39.970Z",
       "color": "#ff7b1e",
-      "posicion": "antes:Acción"
+      "posicion": "despues:Acción"
     },
     {
       "id": "navidad",
