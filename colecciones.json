@@ -35,7 +35,7 @@
       "subtitulo": "Para ver en familia estas fiestas",
       "colorFondo": "linear-gradient(135deg, #0a5c2e, #b00020)",
       "colorTexto": "#ffffff",
-      "activa": true,
+      "activa": false,
       "orden": 2,
       "fechaInicio": "",
       "fechaFin": "",
@@ -47,7 +47,7 @@
       "heroImagen": "",
       "heroActivo": false,
       "creadaEn": "2025-01-01T00:00:00Z",
-      "actualizadaEn": "2026-10-09T23:50:11.398Z",
+      "actualizadaEn": "2026-10-09T23:50:21.231Z",
       "color": "#25d366",
       "posicion": "auto"
     }
