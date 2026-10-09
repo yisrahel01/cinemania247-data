@@ -35,7 +35,7 @@
       "subtitulo": "Para ver en familia estas fiestas",
       "colorFondo": "linear-gradient(135deg, #0a5c2e, #b00020)",
       "colorTexto": "#ffffff",
-      "activa": false,
+      "activa": true,
       "orden": 2,
       "fechaInicio": "",
       "fechaFin": "",
@@ -44,10 +44,10 @@
         "peliculacapitanamerica1",
         "peliculamexicali"
       ],
-      "heroImagen": "",
-      "heroActivo": false,
+      "heroImagen": "https://drive.google.com/file/d/1HSvUQT3HNvyvUsUtaxRPzz4f88kTBROD/view?usp=sharing",
+      "heroActivo": true,
       "creadaEn": "2025-01-01T00:00:00Z",
-      "actualizadaEn": "2026-10-07T01:56:38.183Z",
+      "actualizadaEn": "2026-10-09T23:49:51.147Z",
       "color": "#25d366",
       "posicion": "auto"
     }
