@@ -44,10 +44,10 @@
         "peliculacapitanamerica1",
         "peliculamexicali"
       ],
-      "heroImagen": "https://drive.google.com/file/d/1HSvUQT3HNvyvUsUtaxRPzz4f88kTBROD/view?usp=sharing",
-      "heroActivo": true,
+      "heroImagen": "",
+      "heroActivo": false,
       "creadaEn": "2025-01-01T00:00:00Z",
-      "actualizadaEn": "2026-10-09T23:49:51.147Z",
+      "actualizadaEn": "2026-10-09T23:50:11.398Z",
       "color": "#25d366",
       "posicion": "auto"
     }
