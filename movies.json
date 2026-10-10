@@ -14,7 +14,10 @@
     "downloadUrl": "https://archive.org/details/frankenstein-2025_202610",
     "Peso": "2.2 GB",
     "type": "pelicula",
-    "fechaAgregado": "2026-10-05"
+    "fechaAgregado": "2026-10-05",
+    "archivada": true,
+    "fechaEstado": "2026-10-10",
+    "motivoEstado": "Duplicada"
   },
   {
     "id": "peliculaminionsmonstruos",
