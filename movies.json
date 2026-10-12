@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculalascartasdelavida",
+    "title": "Las cartas de la vida",
+    "titleoriginal": "Doing Life",
+    "synopsis": "Cuando Anika, una joven madre soltera que lucha por mantener unida a su familia, comienza a intercambiar cartas con Carousel, un recluso que cumple condena, su extraño vínculo a distancia se transforma en algo totalmente inesperado.",
+    "year": "2026",
+    "genre": "Romance",
+    "language": "Español Latino",
+    "rating": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/oGZkPxg5NqALN7OJbm9DuPOIVEJ.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+    "videoUrl": "https://archive.org/details/las-cartas-de-la-vida-2026",
+    "downloadUrl": "https://archive.org/details/las-cartas-de-la-vida-2026",
+    "Peso": "2.0",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-12"
+  },
+  {
     "id": "peliculalanovia",
     "title": "¡La novia!",
     "titleoriginal": "The Bride!",
