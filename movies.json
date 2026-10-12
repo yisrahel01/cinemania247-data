@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculalanovia",
+    "title": "¡La novia!",
+    "titleoriginal": "The Bride!",
+    "synopsis": "Un solitario Frankenstein viaja al Chicago de los años 30 para pedirle al científico pionero Dr. Euphronious que le cree una compañera. Ambos reviven a una joven asesinada y nace La Novia. Pero lo que sigue supera lo que ninguno de los dos imaginó.",
+    "year": "2026",
+    "genre": "Ciencia ficción",
+    "language": "Español Latino",
+    "rating": "6.1",
+    "poster": "https://image.tmdb.org/t/p/w500/jRFCTTdj9M2hukPKOU3vVNcDnDD.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/uXgWbwxmCW6XZ3ylRThk9Sqhwwq.jpg",
+    "videoUrl": "https://archive.org/details/la-novia-2026",
+    "downloadUrl": "https://archive.org/details/la-novia-2026",
+    "Peso": "3.0",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-12"
+  },
+  {
     "id": "peliculaitcapitulo2",
     "title": "IT: Capítulo 2",
     "titleoriginal": "It Chapter Two",
