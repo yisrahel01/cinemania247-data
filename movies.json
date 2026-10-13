@@ -51,23 +51,6 @@
     "fechaAgregado": "2026-10-12"
   },
   {
-    "id": "peliculaiteso",
-    "title": "It (Eso)",
-    "titleoriginal": "It",
-    "synopsis": "En el verano de 1989, un grupo de niños maltratados se unieron para destruir a un monstruo cambia-formas, que se disfraza de payaso y se aprovecha de los niños de Derry, su pequeño pueblo de Maine.",
-    "year": "2017",
-    "genre": "Terror",
-    "language": "Español Latino",
-    "rating": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/p77sfJRQyqxvTDy6ulGLnw0uAhh.jpg",
-    "image": "https://image.tmdb.org/t/p/w780/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
-    "videoUrl": "https://archive.org/details/it-2017_202610",
-    "downloadUrl": "https://archive.org/details/it-2017_202610",
-    "Peso": "3.2",
-    "type": "pelicula",
-    "fechaAgregado": "2026-10-12"
-  },
-  {
     "id": "peliculacablemortal",
     "title": "Cable Mortal",
     "titleoriginal": "Zip Wire",
