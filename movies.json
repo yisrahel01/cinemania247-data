@@ -34,23 +34,6 @@
     "fechaAgregado": "2026-10-12"
   },
   {
-    "id": "peliculacablemortal",
-    "title": "Cable Mortal",
-    "titleoriginal": "Zip Wire",
-    "synopsis": "Cuando le roban su revolucionario descubrimiento farmacéutico y asesinan a su compañero, la investigadora Amy debe enfrentarse a su miedo a las alturas para escapar de unos atacantes sin escrúpulos, siendo la única vía de salvación una traicionera pasarela aérea. Para burlar a sus misteriosos perseguidores, tendrá que reunir hasta la última pizca de valor para proteger el descubrimiento científico que cambiará el mundo, y a sí misma, antes de que sea demasiado tarde.",
-    "year": "2026",
-    "genre": "Acción",
-    "language": "Español Latino",
-    "rating": "7.5",
-    "poster": "https://image.tmdb.org/t/p/w500/eLMHUOQ4mCMxePMbv0TIVB48zfe.jpg",
-    "image": "https://image.tmdb.org/t/p/w780/sbkkAtymJaH5UzExiK974uPzCY4.jpg",
-    "videoUrl": "https://archive.org/details/cable-mortal-2026",
-    "downloadUrl": "https://archive.org/details/cable-mortal-2026",
-    "Peso": "1.4 GB",
-    "type": "pelicula",
-    "fechaAgregado": "2026-10-11"
-  },
-  {
     "id": "peliculabodasangrienta2",
     "title": "Boda sangrienta 2",
     "titleoriginal": "Ready or Not: Here I Come",
