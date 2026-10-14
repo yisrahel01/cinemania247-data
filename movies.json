@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculamatchboxlapelicula",
+    "title": "Matchbox: La película",
+    "titleoriginal": "Matchbox the Movie",
+    "synopsis": "Cuando un grupo de antiguos amigos de la infancia reconecta, su reunión da un giro inesperado al descubrir un complot internacional y darse cuenta de que deben salvar al mundo.",
+    "year": "2026",
+    "genre": "Acción",
+    "language": "Español Latino",
+    "rating": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/ev2GnYar3LUyui8sOu4gqeMXvLi.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
+    "videoUrl": "https://archive.org/details/matchbox-la-pelicula-2026",
+    "downloadUrl": "",
+    "Peso": "3.4",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T20:12:43.529Z"
+  },
+  {
     "id": "peliculathepunisherlaultimamuerte",
     "title": "The Punisher: La última muerte",
     "titleoriginal": "The Punisher: One Last Kill",
