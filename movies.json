@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculamesaderegalos",
+    "title": "Mesa de regalos",
+    "titleoriginal": "Mesa de regalos",
+    "synopsis": "Nicolás y Antonia son dos amigos inseparables que, a lo largo de los años, han sido testigos del éxito y la estabilidad emocional de sus amigos, mientras que ellos continúan luchando por encontrar sentido a sus vidas.",
+    "year": "2025",
+    "genre": "Comedia",
+    "language": "Español Latino",
+    "rating": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/xDHlLybirflJFlvPFVHhcTKAZQ2.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/4bwQQNQ1eu1drogQ58A2qZpRLue.jpg",
+    "videoUrl": "https://archive.org/details/mesa-de-regalos-2025",
+    "downloadUrl": "",
+    "Peso": "3.5",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculasolomio",
     "title": "Solo Mio",
     "titleoriginal": "Solo Mio",
