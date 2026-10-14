@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculamayday",
+    "title": "Mayday",
+    "titleoriginal": "Mayday",
+    "synopsis": "Cuando un piloto naval estadounidense queda atrapado tras líneas enemigas en una misión secreta durante la Guerra Fría, su única oportunidad de sobrevivir es formar una alianza con un excéntrico exagente de la KGB.",
+    "year": "2026",
+    "genre": "Acción",
+    "language": "Español Latino",
+    "rating": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/i3bkXZa5Ut1uuhKa0f0GmtXdLD3.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
+    "videoUrl": "https://archive.org/details/mayday-2026_202610",
+    "downloadUrl": "",
+    "Peso": "2.7",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T20:20:39.910Z"
+  },
+  {
     "id": "peliculalasdamasprimero",
     "title": "Las damas primero",
     "titleoriginal": "Ladies First",
