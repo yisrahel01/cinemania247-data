@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculaamorexplosivo",
+    "title": "Amor explosivo",
+    "titleoriginal": "Love Hurts",
+    "synopsis": "Marvin Gable, un agente inmobiliario que trabaja en los suburbios de Milwaukee, recibe un sobre de Rose una antigua compañera del crimen que él dio por muerta. Ahora, Marvin es traído de regreso al mundo de los sicarios agresivos, lleno de traiciones y casas abiertas que se convierten en zonas de guerras mortales.",
+    "year": "2025",
+    "genre": "Acción",
+    "language": "Español Latino",
+    "rating": "5.7",
+    "poster": "https://image.tmdb.org/t/p/w500/z0jwBykM5DgPQ99lVlKI4sA0U0L.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+    "videoUrl": "https://archive.org/details/amor-explosivo-2025",
+    "downloadUrl": "",
+    "Peso": "2.0",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculamayday",
     "title": "Mayday",
     "titleoriginal": "Mayday",
