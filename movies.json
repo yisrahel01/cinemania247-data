@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculalahipotesisdelamor",
+    "title": "La hipótesis del amor",
+    "titleoriginal": "The Love Hypothesis",
+    "synopsis": "Basada en el éxito del New York Times, La hipótesis del amor sigue a Olive, una estudiante de doctorado que besa por impulso al profesor más intimidante del departamento, Adam Carlsen. Ambos necesitan fingir que están en una relación y comienzan un experimento de química que podría resultar en amor.",
+    "year": "2026",
+    "genre": "Romance",
+    "language": "Español Latino",
+    "rating": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+    "videoUrl": "https://archive.org/details/la-hipotesis-del-amor-2026",
+    "downloadUrl": "",
+    "Peso": "2.9",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculaeldiadelfindelmundomigracion",
     "title": "El día del fin del mundo: Migración",
     "titleoriginal": "Greenland 2: Migration",
