@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculariesgobajocerovenganza",
+    "title": "Riesgo bajo cero: Venganza",
+    "titleoriginal": "Ice Road: Vengeance",
+    "synopsis": "Mike viaja a Nepal para esparcir las cenizas de su hermano en el Everest. Cuando Mike y su guía se topan con mercenarios mientras viajan en un autobús se ven obligados a luchar para salvarse a sí mismos, a los pasajeros y al país.",
+    "year": "2025",
+    "genre": "Acción",
+    "language": "Español Latino",
+    "rating": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/5Wb1sOZvFulzzJE5JDWCnFSCvJ5.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/ot2LoRyfp73Mswc9Y5KrDJYcyU1.jpg",
+    "videoUrl": "https://archive.org/details/riesgo-bajo-cero-2025",
+    "downloadUrl": "",
+    "Peso": "2.7",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculavertigo2puntomuerto",
     "title": "Vértigo 2: Punto muerto",
     "titleoriginal": "Fall 2: Deadpoint",
