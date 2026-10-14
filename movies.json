@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculaeldiadelfindelmundomigracion",
+    "title": "El día del fin del mundo: Migración",
+    "titleoriginal": "Greenland 2: Migration",
+    "synopsis": "La familia Garrity debe abandonar la seguridad del búnker de Groenlandia y embarcarse en un peligroso viaje a través del diezmado páramo helado de Europa para encontrar un nuevo hogar.",
+    "year": "2026",
+    "genre": "Aventura",
+    "language": "Español Latino",
+    "rating": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/uoFJ6nGGvf8moZGpharm8Qyrpzm.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+    "videoUrl": "https://archive.org/details/greenland-2-migracion-2026",
+    "downloadUrl": "",
+    "Peso": "2.4",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T20:26:12.309Z"
+  },
+  {
     "id": "peliculagoatlacabraquecambioeljuego",
     "title": "GOAT: La cabra que cambió el juego",
     "titleoriginal": "GOAT",
