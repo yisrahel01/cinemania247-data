@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculathepunisherlaultimamuerte",
+    "title": "The Punisher: La última muerte",
+    "titleoriginal": "The Punisher: One Last Kill",
+    "synopsis": "Mientras Frank Castle busca propósito más allá de la venganza, una fuerza inesperada lo arrastra de nuevo a la lucha.",
+    "year": "2026",
+    "genre": "Acción",
+    "language": "Español Latino",
+    "rating": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/ehzOlaPVTyHnGNhcvfzgXPFNY31.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+    "videoUrl": "https://archive.org/details/the-punisher-la-ultima-muerte-2026",
+    "downloadUrl": "",
+    "Peso": "3.9",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T20:10:35.482Z"
+  },
+  {
     "id": "peliculaitcapitulo2",
     "title": "IT: Capítulo 2",
     "titleoriginal": "It Chapter Two",
