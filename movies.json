@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculavertigo2puntomuerto",
+    "title": "Vértigo 2: Punto muerto",
+    "titleoriginal": "Fall 2: Deadpoint",
+    "synopsis": "Tras sobrevivir a una experiencia extrema, un nuevo grupo de jóvenes se enfrenta a un desafío aún más peligroso en un entorno remoto en Tailandia. A cientos de metros de altura, sin escapatoria y con condiciones impredecibles, deberán luchar contra el miedo, el tiempo y sus propios límites para sobrevivir.",
+    "year": "2026",
+    "genre": "Thriller",
+    "language": "Español Latino",
+    "rating": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/xQlESgkDM7rczAWySdB0WBomh39.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+    "videoUrl": "https://archive.org/details/vertigo-2-punto-muerto-2026",
+    "downloadUrl": "",
+    "Peso": "1.3",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T20:34:50.431Z"
+  },
+  {
     "id": "peliculalahipotesisdelamor",
     "title": "La hipótesis del amor",
     "titleoriginal": "The Love Hypothesis",
