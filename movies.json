@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculahoppersoperacioncastor",
+    "title": "Hoppers: Operación castor",
+    "titleoriginal": "Hoppers",
+    "synopsis": "Mabel, una amante de los animales, utiliza una nueva e inteligente tecnología diseñada para \"transmitir\" la conciencia humana a animales robóticos realistas en un intento de comunicarse con los castores, descubriendo misterios dentro del mundo animal más allá de lo que pudiera haber imaginado.",
+    "year": "2026",
+    "genre": "Aventura",
+    "language": "Español Latino",
+    "rating": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/yONVGkDGZ07WGAR5Fq0GErzHUZ9.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "videoUrl": "https://archive.org/details/hoppers-operacion-castor-2026",
+    "downloadUrl": "",
+    "Peso": "2.5",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T20:17:57.846Z"
+  },
+  {
     "id": "peliculatopgunmaverick",
     "title": "Top Gun: Maverick",
     "titleoriginal": "Top Gun: Maverick",
