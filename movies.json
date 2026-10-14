@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculagoatlacabraquecambioeljuego",
+    "title": "GOAT: La cabra que cambió el juego",
+    "titleoriginal": "GOAT",
+    "synopsis": "Will, un pequeño cabrito con grandes sueños, tiene la oportunidad única de unirse a los profesionales y jugar al roarball, un deporte de contacto intenso y mixto, dominado por los animales más rápidos y feroces del mundo. A sus nuevos compañeros no les entusiasma tener un pequeño cabrito en su equipo, pero Will está decidido a revolucionar el deporte y demostrar de una vez por todas que los pequeños también pueden jugar al béisbol.",
+    "year": "2026",
+    "genre": "Animación",
+    "language": "Español Latino",
+    "rating": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/3dH7p6eAfzDElYYFKfYWpf9xlsG.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+    "videoUrl": "https://archive.org/details/goats-la-cabra-que-cambio-el-juego-2026",
+    "downloadUrl": "",
+    "Peso": "2.4",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculacalabozosdragoneshonorentreladrones",
     "title": "Calabozos & Dragones: Honor entre ladrones",
     "titleoriginal": "Dungeons & Dragons: Honor Among Thieves",
