@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculacalabozosdragoneshonorentreladrones",
+    "title": "Calabozos & Dragones: Honor entre ladrones",
+    "titleoriginal": "Dungeons & Dragons: Honor Among Thieves",
+    "synopsis": "Un ladrón encantador y una banda de aventureros inverosímiles emprenden un atraco épico para recuperar una reliquia perdida, pero las cosas salen peligrosamente mal cuando se topan con las personas equivocadas.",
+    "year": "2023",
+    "genre": "Aventura",
+    "language": "Español Latino",
+    "rating": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/6dW83oZuprt6mw1rIJrTJjuSVX3.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/AdBXP8e6K3FYdDrMx3Wr6WZqCYF.jpg",
+    "videoUrl": "https://archive.org/details/calabozos-y-dragones-honor-entre-ladrones-2023_202610",
+    "downloadUrl": "",
+    "Peso": "3.2",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculaamorexplosivo",
     "title": "Amor explosivo",
     "titleoriginal": "Love Hurts",
