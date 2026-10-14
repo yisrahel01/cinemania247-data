@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculabodasangrienta2",
+    "title": "Boda sangrienta 2",
+    "titleoriginal": "Ready or Not: Here I Come",
+    "synopsis": "Momentos después de sobrevivir a un ataque de la familia Le Domas, Grace descubre que ha alcanzado el siguiente nivel del juego, y esta vez acompañada por su hermana Faith, con quien mantiene una relación distante. Grace tiene una oportunidad para sobrevivir, mantener con vida a su hermana y reclamar el Alto Trono del Consejo que controla el mundo. Cuatro familias rivales la persiguen para hacerse con el trono, y quien gane lo gobernará todo.",
+    "year": "2026",
+    "genre": "Terror",
+    "language": "Español Latino",
+    "rating": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/tQV0X354U142Cao8Be6eUt38spS.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+    "videoUrl": "https://archive.org/details/boda-sangrienta-2-2026",
+    "downloadUrl": "",
+    "Peso": "3.8",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T19:45:32.414Z"
+  },
+  {
     "id": "peliculaminionsmonstruos",
     "title": "Minions & Monstruos",
     "titleoriginal": "Minions & Monsters",
