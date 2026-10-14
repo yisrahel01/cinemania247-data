@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculatopgunmaverick",
+    "title": "Top Gun: Maverick",
+    "titleoriginal": "Top Gun: Maverick",
+    "synopsis": "Después de más de treinta años de servicio como uno de los mejores aviadores de la Armada, Pete \"Maverick\" Mitchell está en donde pertenece, sobresaliendo como un valiente piloto de pruebas y evitando subir de rango en la armada, que evitaría que pudiera seguir volando. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especial que ningún piloto vivo ha visto antes, Maverick se encuentra con el teniente Bradley Bradshaw, señal de llamada: \"Rooster\", el hijo del difunto amigo de Maverick y el oficial de intercepción de radar, el teniente Nick Bradshaw, también conocido como \"Goose\".",
+    "year": "2022",
+    "genre": "Acción",
+    "language": "Español Latino",
+    "rating": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg",
+    "videoUrl": "https://archive.org/details/top-gun-maverick-2022_202610",
+    "downloadUrl": "",
+    "Peso": "3.1",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculaterrorensilenthillregresoalinfierno",
     "title": "Terror en Silent Hill: Regreso al infierno",
     "titleoriginal": "Return to Silent Hill",
