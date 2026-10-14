@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculalasdamasprimero",
+    "title": "Las damas primero",
+    "titleoriginal": "Ladies First",
+    "synopsis": "Un arrogante y carismático seductor disfruta de una vida de lujo, poder y amoríos casuales, pero todo cambia cuando despierta en un mundo paralelo dominado por mujeres.",
+    "year": "2026",
+    "genre": "Comedia",
+    "language": "Español Latino",
+    "rating": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/DP6nB3O96NToxLAR3V26DErgCX.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/z1hekwU7a7FUP6XvqDwJjxAbrXJ.jpg",
+    "videoUrl": "https://archive.org/details/las-damas-primero-2026",
+    "downloadUrl": "",
+    "Peso": "2.2",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculahoppersoperacioncastor",
     "title": "Hoppers: Operación castor",
     "titleoriginal": "Hoppers",
