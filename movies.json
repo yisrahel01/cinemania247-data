@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculaterrorensilenthillregresoalinfierno",
+    "title": "Terror en Silent Hill: Regreso al infierno",
+    "titleoriginal": "Return to Silent Hill",
+    "synopsis": "Cuando James recibe una misteriosa carta de Mary, su amor perdido, se siente atraído por Silent Hill, un pueblo que antes le era familiar y ahora está sumido en la oscuridad.",
+    "year": "2026",
+    "genre": "Terror",
+    "language": "Español Latino",
+    "rating": "5.3",
+    "poster": "https://image.tmdb.org/t/p/w500/8JcaYXZYlT2nYlsgo1Uv7RH9FP.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+    "videoUrl": "https://archive.org/details/terror-en-silent-hill-regreso-al-infierno-2026",
+    "downloadUrl": "",
+    "Peso": "3.5",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-14T20:14:08.314Z"
+  },
+  {
     "id": "peliculamatchboxlapelicula",
     "title": "Matchbox: La película",
     "titleoriginal": "Matchbox the Movie",
