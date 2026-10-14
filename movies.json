@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculasolomio",
+    "title": "Solo Mio",
+    "titleoriginal": "Solo Mio",
+    "synopsis": "Un hombre al que su prometida deja plantado en el altar en Italia decide irse solo de luna de miel.",
+    "year": "2026",
+    "genre": "Romance",
+    "language": "Español Latino",
+    "rating": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/3iOvz9wXGvUCb4no5aIvCq2HmlH.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
+    "videoUrl": "https://archive.org/details/solo-mio-2026",
+    "downloadUrl": "",
+    "Peso": "2.3",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-14"
+  },
+  {
     "id": "peliculariesgobajocerovenganza",
     "title": "Riesgo bajo cero: Venganza",
     "titleoriginal": "Ice Road: Vengeance",
