@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculaunabatallatrasotra",
+    "title": "Una batalla tras otra",
+    "titleoriginal": "One Battle After Another",
+    "synopsis": "Cuando su malvado némesis resurge después de 16 años, una banda de ex revolucionarios se reúne para rescatar a la hija de uno de los suyos.",
+    "year": "2025",
+    "genre": "Thriller",
+    "language": "Español Latino",
+    "rating": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/kgVBwI8V4jjYTEbfyugEr6sDa7v.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+    "videoUrl": "https://archive.org/details/una-batalla-tras-otra-2025",
+    "downloadUrl": "",
+    "Peso": "2.21",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-15"
+  },
+  {
     "id": "peliculawonka",
     "title": "Wonka",
     "titleoriginal": "Wonka",
