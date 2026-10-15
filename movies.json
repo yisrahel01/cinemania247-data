@@ -1,5 +1,24 @@
 [
   {
+    "id": "peliculahechizodeamorlamagiacontinua",
+    "title": "Hechizo de amor: La magia continúa",
+    "titleoriginal": "Practical Magic 2",
+    "synopsis": "En un mundo envuelto en travesuras a la luz de la luna y una poderosa magia ancestral, las hermanas Owens deberán enfrentar la oscura maldición que amenaza con destruir a su familia de una vez por todas.",
+    "year": "2026",
+    "genre": "Romance",
+    "language": "Español Latino",
+    "rating": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/eNdtnb2Ga4H9fl4hEGhOLrgdKqq.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+    "videoUrl": "https://archive.org/details/hechizo-de-amor-la-magia-continua-2026",
+    "downloadUrl": "",
+    "Peso": "3.2",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-15",
+    "destacado": "estreno",
+    "fechaDestacado": "2026-10-15T03:56:09.400Z"
+  },
+  {
     "id": "peliculamesaderegalos",
     "title": "Mesa de regalos",
     "titleoriginal": "Mesa de regalos",
