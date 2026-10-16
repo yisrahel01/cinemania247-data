@@ -1,5 +1,22 @@
 [
   {
+    "id": "peliculavolcanfuegobajotierra",
+    "title": "Volcán: Fuego bajo tierra",
+    "titleoriginal": "Eldarnir",
+    "synopsis": "Una reconocida vulcanóloga detecta señales inequívocas de una inminente erupción volcánica que podría devastar la ciudad. A medida que la actividad sísmica aumenta y los terremotos se intensifican, comienza una carrera contra el tiempo para evacuar, advertir a las autoridades y salvar vidas. Pero cuando la tierra empieza a romperse, cada decisión puede ser la última.",
+    "year": "2025",
+    "genre": "Thriller",
+    "language": "Español Latino",
+    "rating": "6.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1Knvd73GFfW50F6wFEqQAQDqyUa.jpg",
+    "image": "https://image.tmdb.org/t/p/w780/miydeUpspKXPRHZ5llPp2mIn0Cb.jpg",
+    "videoUrl": "https://archive.org/details/volcan-fuego-bajo-tierrra-2025",
+    "downloadUrl": "",
+    "Peso": "3.1",
+    "type": "pelicula",
+    "fechaAgregado": "2026-10-16"
+  },
+  {
     "id": "peliculaunabatallatrasotra",
     "title": "Una batalla tras otra",
     "titleoriginal": "One Battle After Another",
